@@ -1,13 +1,13 @@
 package tile;
 
-import entity.Entity;
+// import entity.Entity;
 import main.GamePanel;
 import main.UtilityTool;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.io.BufferedReader;
-import java.io.Console;
+// import java.io.Console;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;

@@ -3,7 +3,7 @@ package object;
 import entity.Entity;
 import main.GamePanel;
 
-import java.awt.*;
+// import java.awt.*;
 
 public class Key extends Entity {
 

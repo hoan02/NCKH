@@ -2,12 +2,12 @@ package tile_interactive;
 
 import entity.Entity;
 import main.GamePanel;
-import object.CoinBronze;
-import object.Heart;
-import object.ManaCrystal;
+// import object.CoinBronze;
+// import object.Heart;
+// import object.ManaCrystal;
 
 import java.awt.*;
-import java.util.Random;
+// import java.util.Random;
 
 public class DestructibleWall extends InteractiveTile {
 

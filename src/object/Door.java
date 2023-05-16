@@ -3,8 +3,8 @@ package object;
 import entity.Entity;
 import main.GamePanel;
 
-import javax.imageio.ImageIO;
-import java.io.IOException;
+// import javax.imageio.ImageIO;
+// import java.io.IOException;
 
 public class Door extends Entity {
 

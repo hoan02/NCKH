@@ -5,7 +5,7 @@ import main.GamePanel;
 import object.CoinBronze;
 import object.Heart;
 import object.ManaCrystal;
-import object.Rock;
+// import object.Rock;
 
 import java.util.Random;
 

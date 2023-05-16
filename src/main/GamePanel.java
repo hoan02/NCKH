@@ -541,7 +541,7 @@ public class GamePanel extends JPanel implements Runnable {
     music.stop();
   }
 
-  public void playSE(int i) // Sound effect, dont need loop
+  public void playSE(int i) // Sound effect, don't need loop
   {
     se.setFile(i);
     se.play();

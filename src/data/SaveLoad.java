@@ -1,8 +1,8 @@
 package data;
 
-import entity.Entity;
 import main.GamePanel;
-import object.*;
+// import entity.Entity;
+// import object.*;
 
 import java.io.*;
 

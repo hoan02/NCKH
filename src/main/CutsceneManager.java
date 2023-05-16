@@ -3,7 +3,7 @@ package main;
 import entity.PlayerDummy;
 import monster.SkeletonLord;
 import object.BlueHeart;
-import object.Door;
+// import object.Door;
 import object.DoorIron;
 
 import java.awt.*;

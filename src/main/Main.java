@@ -1,7 +1,7 @@
 package main;
 
 import javax.swing.*;
-import java.awt.*;
+// import java.awt.*;
 
 public class Main {
 
@@ -11,7 +11,7 @@ public class Main {
     window = new JFrame();
     window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     window.setResizable(false); // Cant Resizable
-    window.setTitle("Blue Boy Adventure\n"); // Window Name
+    window.setTitle("Maze Adventure\n"); // Window Name
     new Main().setIcon();
     GamePanel gamePanel = new GamePanel();
     window.add(gamePanel);
